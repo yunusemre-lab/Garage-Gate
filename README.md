@@ -2,7 +2,7 @@
 Garaj Kapısı (Garage Gate)
 Main:
 ![Screenshot_1](https://github.com/user-attachments/assets/a2f31a54-6389-48bc-9eea-2fb92c56e70e)
-![Screenshot_2](https://github.com/user-attachments/assets/69a4b4cb-4c40-483d-bf31-e7a2f53d92ef)
+<img width="739" height="399" alt="image" src="https://github.com/user-attachments/assets/8d7cabf0-1af8-4382-8003-9c4472178c7c" />
 ![Screenshot_3](https://github.com/user-attachments/assets/c066d199-3487-44c9-a8a0-c1b55202b37e)
 ![Screenshot_4](https://github.com/user-attachments/assets/bb21feed-97d1-44eb-a4a0-0dd2609940e5)
 FB1:
