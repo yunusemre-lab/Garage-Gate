@@ -1,4 +1,3 @@
-<img width="800" height="583" alt="Windows10x64-VMwareWorkstation2026-10-1410-23-45-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/753a6ee8-884b-4d15-ab74-2803a1d1fb0e" />
 # Garage-Gate With PLC
 Garaj Kapısı (Garage Gate)
 Main:
